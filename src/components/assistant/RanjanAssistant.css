@@ -37,6 +37,7 @@
 .bar.three {
   background-color: #f1c40f;
   margin-left: 20px;
+  animation-delay: 0.3s;
 }
 
 .bar.four {
