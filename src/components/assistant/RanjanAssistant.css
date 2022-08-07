@@ -7,6 +7,21 @@
   cursor: pointer;
 }
 
+.bar {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  /*align-items: center;*/
+  top: -10px;
+
+  background-color: #f98866;
+  width: 20px;
+  height: 20px;
+  margin: 5px 0;
+  border-radius: 10px;
+  transition: 0.3s;
+  animation: dope 1.5s ease-in-out 0s infinite;
+}
+
 .bar.one {
   background-color: #3498db;
   margin-left: -60px;
