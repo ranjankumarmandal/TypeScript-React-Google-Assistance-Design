@@ -43,4 +43,5 @@
 .bar.four {
   background-color: #2eb869;
   margin-left: 60px;
+  animation-delay: 0.45s;
 }
