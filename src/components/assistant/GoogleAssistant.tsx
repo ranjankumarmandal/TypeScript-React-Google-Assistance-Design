@@ -1,4 +1,5 @@
 import React from 'react';
+import './RanjanAssistant.css';
 
 const GoogleAssistant = () => {
   return (
