@@ -5,7 +5,7 @@ import GoogleAssistant from './components/assistant/GoogleAssistant';
 function App() {
   return (
     <div className='App'>
-      <p>hello</p>
+      <GoogleAssistant />
     </div>
   );
 }
