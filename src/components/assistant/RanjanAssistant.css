@@ -2,3 +2,13 @@
   background-color: #3498db;
   margin-left: -60px;
 }
+
+.bar.two {
+  background-color: #e74c3c;
+  margin-left: -20px;
+}
+
+.bar.three {
+  background-color: #f1c40f;
+  margin-left: 20px;
+}
