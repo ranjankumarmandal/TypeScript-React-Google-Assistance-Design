@@ -5,6 +5,7 @@ const GoogleAssistant = () => {
     <div className='icon'>
       <div className='bar one'></div>
       <div className='bar two'></div>
+      <div className='bar three'></div>
     </div>
   );
 };
