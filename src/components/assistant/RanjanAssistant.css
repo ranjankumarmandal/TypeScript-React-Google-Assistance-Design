@@ -1,3 +1,12 @@
+.icon {
+  position: relative;
+  left: 50vw;
+  width: 0;
+  top: 50vh;
+  text-align: center;
+  cursor: pointer;
+}
+
 .bar.one {
   background-color: #3498db;
   margin-left: -60px;
