@@ -22,25 +22,25 @@
   animation: dope 1.5s ease-in-out 0s infinite;
 }
 
-.bar.one {
+.bar:nth-child(1) {
   background-color: #3498db;
   margin-left: -60px;
   animation-delay: 0s;
 }
 
-.bar.two {
+.bar:nth-child(2) {
   background-color: #e74c3c;
   margin-left: -20px;
   animation-delay: 0.15s;
 }
 
-.bar.three {
+.bar:nth-child(3) {
   background-color: #f1c40f;
   margin-left: 20px;
   animation-delay: 0.3s;
 }
 
-.bar.four {
+.bar:nth-child(4) {
   background-color: #2eb869;
   margin-left: 60px;
   animation-delay: 0.45s;
