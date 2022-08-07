@@ -25,6 +25,7 @@
 .bar.one {
   background-color: #3498db;
   margin-left: -60px;
+  animation-delay: 0s;
 }
 
 .bar.two {
